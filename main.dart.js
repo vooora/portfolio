@@ -58135,55 +58135,55 @@ ah(){return new A.Ff()}}
 A.Ff.prototype={
 T(a){return A.rt(new A.a0E(this))}}
 A.a0E.prototype={
-$2(c6,c7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3=null,a4="Prabodhini: Making LLMs Inclusive\nfor Low Text Literate Users",a5="new_pipeline.png",a6="Methodology",a7="We developed an information retrieval system that uses a combination of query categorization and retrieval-augmented generation to deliver relevant answers. The backend identifies the question type\u2014procedure-based, yes/no, or informative\u2014and fetches semantically similar documents using OpenAI embeddings. This system is optimized for low-literacy users by presenting the output as a step-by-step guided experience.",a8="In user studies with semi-literate individuals, the app received highly positive feedback. Participants found the system helpful, easy to use, and trustworthy, with over 91% preferring the voice-enabled, guided format. Evaluation results showed strong performance in both response clarity and relevance, highlighting the system\u2019s effectiveness and user satisfaction.",a9=4281123751,b0=4282670532,b1="Link to submitted video demo of application",b2="Link to published paper",b3="Link to presented poster",b4="assets/user.png",b5="Motivation",b6="Many large language model (LLM) responses are long and complex, making them difficult for low-text-literate users to understand. Our app bridges this gap by delivering simplified, actionable answers through a guided, interactive flowchart of yes/no questions. It breaks down complex government schemes into digestible steps tailored to the user\u2019s needs.",b7="phonescreen1.png",b8="phonescreen2.png",b9="Presentation",c0="poster-image.jpeg",c1=c7.b,c2=B.c.dc(c1/1440,0.7,1.2),c3=t.E,c4=A.b([],c3),c5=c1>1000
-if(c5)c4.push(A.E(a3,150*c2,a3))
-s=40*c2
-r=A.Av(!1,!0,A.eo(B.cC,B.e,a3,s),a3,!0,a3,a3,a3,a3,a3,a3,new A.a0l(c6),a3,a3,a3)
-q=10*c2
+$2(c5,c6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3=null,a4="assets/new_pipeline.png",a5="Methodology",a6="We developed an information retrieval system that uses a combination of query categorization and retrieval-augmented generation to deliver relevant answers. The backend identifies the question type\u2014procedure-based, yes/no, or informative\u2014and fetches semantically similar documents using OpenAI embeddings. This system is optimized for low-literacy users by presenting the output as a step-by-step guided experience.",a7="In user studies with semi-literate individuals, the app received highly positive feedback. Participants found the system helpful, easy to use, and trustworthy, with over 91% preferring the voice-enabled, guided format. Evaluation results showed strong performance in both response clarity and relevance, highlighting the system\u2019s effectiveness and user satisfaction.",a8=4281123751,a9=4282670532,b0="Link to submitted video demo of application",b1="Link to published paper",b2="Link to presented poster",b3="assets/user.png",b4="Motivation",b5="Many large language model (LLM) responses are long and complex, making them difficult for low-text-literate users to understand. Our app bridges this gap by delivering simplified, actionable answers through a guided, interactive flowchart of yes/no questions. It breaks down complex government schemes into digestible steps tailored to the user\u2019s needs.",b6="assets/phonescreen1.png",b7="assets/phonescreen2.png",b8="Presentation",b9="assets/poster-image.jpeg",c0=c6.b,c1=B.c.dc(c0/1440,0.7,1.2),c2=t.E,c3=A.b([],c2),c4=c0>1000
+if(c4)c3.push(A.E(a3,150*c1,a3))
+s=40*c1
+r=A.Av(!1,!0,A.eo(B.cC,B.e,a3,s),a3,!0,a3,a3,a3,a3,a3,a3,new A.a0l(c5),a3,a3,a3)
+q=10*c1
 p=A.E(a3,a3,q)
-c4.push(A.be(A.b([r,p,A.ag("Publications",a3,a3,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,c1>800?c1*0.03:c1*0.05,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3)],c3),B.k,B.z))
-c4.push(A.E(a3,50*c2,a3))
+c3.push(A.be(A.b([r,p,A.ag("Publications",a3,a3,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,c0>800?c0*0.03:c0*0.05,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3)],c2),B.k,B.z))
+c3.push(A.E(a3,50*c1,a3))
 r=this.a
-p=30*c2
-o=20*c2
-n=2.5/c2
-m=500*c2
-l=15*c2
-if(c5){c5=A.E(a3,a3,25*c2)
-k=A.ag(a4,a3,a3,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,p,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S)
+p=30*c1
+o=20*c1
+n=2.5/c1
+m=500*c1
+l=15*c1
+if(c4){c4=A.E(a3,a3,25*c1)
+k=A.ag("Prabodhini: Making LLMs Inclusive\nfor Low Text Literate Users: ECIR 2025",a3,a3,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,p,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S)
 j=A.E(a3,o,a3)
-i=A.bv(a5,a3,a3,a3,n,a3)
+i=A.bv(a4,a3,a3,a3,n,a3)
 h=A.E(a3,o,a3)
-g=A.E(A.ag(a6,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m)
-f=A.E(A.ag(a7,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m)
+g=A.E(A.ag(a5,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m)
+f=A.E(A.ag(a6,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m)
 e=A.E(a3,q,a3)
-d=A.E(A.ag(a8,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m)
+d=A.E(A.ag(a7,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m)
 c=A.E(a3,p,a3)
-b=r.d?A.a8(a9):A.a8(b0)
-b=A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b1,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(b,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0m(),a3,a3,a3),B.bD,new A.a0n(r),new A.a0w(r),a3)
+b=r.d?A.a8(a8):A.a8(a9)
+b=A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b0,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(b,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0m(),a3,a3,a3),B.bD,new A.a0n(r),new A.a0w(r),a3)
 a=A.E(a3,q,a3)
-a0=r.e?A.a8(a9):A.a8(b0)
-a0=A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b2,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(a0,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0x(),a3,a3,a3),B.bD,new A.a0y(r),new A.a0z(r),a3)
+a0=r.e?A.a8(a8):A.a8(a9)
+a0=A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b1,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(a0,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0x(),a3,a3,a3),B.bD,new A.a0y(r),new A.a0z(r),a3)
 a1=A.E(a3,q,a3)
-a2=r.f?A.a8(a9):A.a8(b0)
-c4.push(A.be(A.b([c5,A.aS(A.b([k,j,i,h,g,f,e,d,c,b,a,a0,a1,A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b3,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(a2,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0A(),a3,a3,a3),B.bD,new A.a0B(r),new A.a0C(r),a3),A.E(a3,p,a3),A.bv(b4,a3,a3,a3,4.7/c2,a3)],c3),B.a2,B.u,B.r),A.E(a3,a3,s),A.aS(A.b([A.E(A.ag(b5,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m),A.E(A.ag(b6,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m),A.E(a3,p,a3),A.be(A.b([A.bv(b7,a3,a3,a3,n,a3),A.E(a3,a3,p),A.bv(b8,a3,a3,a3,n,a3)],c3),B.k,B.aL),A.E(a3,p,a3),A.E(A.ag(b9,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m),A.E(A.ag("I had the opportunity to present this work at the European Conference of Information Retrieval (ECIR) 2025 in Italy, where I shared insights from the project with researchers and practitioners from around the world. It was an incredible experience to learn from others building innovative applications in this space. I received valuable feedback on how we could further improve the system, and came away inspired by the creative ways others are using similar technologies to solve real world problems.",a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m),A.E(a3,p,a3),A.bv(c0,a3,a3,a3,n,a3),A.E(a3,p,a3)],c3),B.k,B.u,B.r)],c3),B.a2,B.z))}else{c5=A.ag(a4,a3,a3,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,p,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S)
+a2=r.f?A.a8(a8):A.a8(a9)
+c3.push(A.be(A.b([c4,A.aS(A.b([k,j,i,h,g,f,e,d,c,b,a,a0,a1,A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b2,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(a2,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0A(),a3,a3,a3),B.bD,new A.a0B(r),new A.a0C(r),a3),A.E(a3,p,a3),A.bv(b3,a3,a3,a3,4.7/c1,a3)],c2),B.a2,B.u,B.r),A.E(a3,a3,s),A.aS(A.b([A.E(A.ag(b4,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m),A.E(A.ag(b5,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m),A.E(a3,p,a3),A.be(A.b([A.bv(b6,a3,a3,a3,n,a3),A.E(a3,a3,p),A.bv(b7,a3,a3,a3,n,a3)],c2),B.k,B.aL),A.E(a3,p,a3),A.E(A.ag(b8,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m),A.E(A.ag("I had the opportunity to present this work at the European Conference of Information Retrieval (ECIR) 2025 in Italy, where I shared insights from the project with researchers and practitioners from around the world. It was an incredible experience to learn from others building innovative applications in this space. I received valuable feedback on how we could further improve the system, and came away inspired by the creative ways others are using similar technologies to solve real world problems.",a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m),A.E(a3,p,a3),A.bv(b9,a3,a3,a3,n,a3),A.E(a3,p,a3)],c2),B.k,B.u,B.r)],c2),B.a2,B.z))}else{c4=A.ag("Prabodhini: Making LLMs Inclusive\nfor Low Text Literate Users",a3,a3,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,p,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S)
 k=A.E(a3,o,a3)
-j=A.bv(a5,a3,a3,a3,n,a3)
+j=A.bv(a4,a3,a3,a3,n,a3)
 i=A.E(a3,o,a3)
-h=A.E(A.ag(a6,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m)
-g=A.E(A.ag(a7,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m)
+h=A.E(A.ag(a5,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m)
+g=A.E(A.ag(a6,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m)
 f=A.E(a3,q,a3)
-e=A.E(A.ag(a8,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m)
+e=A.E(A.ag(a7,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m)
 d=A.E(a3,p,a3)
-c=r.d?A.a8(a9):A.a8(b0)
-c=A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b1,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(c,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0D(),a3,a3,a3),B.bD,new A.a0o(r),new A.a0p(r),a3)
+c=r.d?A.a8(a8):A.a8(a9)
+c=A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b0,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(c,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0D(),a3,a3,a3),B.bD,new A.a0o(r),new A.a0p(r),a3)
 b=A.E(a3,q,a3)
-a=r.e?A.a8(a9):A.a8(b0)
-a=A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b2,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(a,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0q(),a3,a3,a3),B.bD,new A.a0r(r),new A.a0s(r),a3)
+a=r.e?A.a8(a8):A.a8(a9)
+a=A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b1,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(a,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0q(),a3,a3,a3),B.bD,new A.a0r(r),new A.a0s(r),a3)
 a0=A.E(a3,q,a3)
-a1=r.f?A.a8(a9):A.a8(b0)
-c4.push(A.aS(A.b([A.aS(A.b([c5,k,j,i,h,g,f,e,d,c,b,a,a0,A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b3,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(a1,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0t(),a3,a3,a3),B.bD,new A.a0u(r),new A.a0v(r),a3),A.E(a3,p,a3),A.bv(b4,a3,a3,a3,4.7/c2,a3)],c3),B.a2,B.u,B.r),A.aS(A.b([A.E(A.ag(b5,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m),A.E(A.ag(b6,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m),A.E(a3,p,a3),A.be(A.b([A.bv(b7,a3,a3,a3,n,a3),A.E(a3,a3,p),A.bv(b8,a3,a3,a3,n,a3)],c3),B.k,B.z),A.E(a3,p,a3),A.E(A.ag(b9,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m),A.E(A.ag("I had the opportunity to present this work at the European Conference of Information Retrieval (ECIR) 2025 in Italy, where I shared insights from the project with researchers and practitioners from around the world. It was an incredible experience \u2014 not just to present, but also to learn from others building innovative applications in this space. I received valuable feedback on how we could further improve the system, and came away inspired by the creative ways others are using similar technologies to solve real-world problems.",a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m),A.E(a3,p,a3),A.bv(c0,a3,a3,a3,n,a3),A.E(a3,p,a3)],c3),B.k,B.u,B.r)],c3),B.k,B.u,B.r))}c4.push(A.E(a3,a3,s))
-return A.aS(c4,B.k,B.z,B.r)},
+a1=r.f?A.a8(a8):A.a8(a9)
+c3.push(A.aS(A.b([A.aS(A.b([c4,k,j,i,h,g,f,e,d,c,b,a,a0,A.cf(A.bV(a3,A.dn(a3,new A.bd(new A.ar(o,q,o,q),A.ag(b2,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3),B.B,a3,a3,new A.bh(a1,a3,a3,a3,a3,a3,B.G),a3,a3,a3,a3,a3,a3,a3),B.C,!1,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a0t(),a3,a3,a3),B.bD,new A.a0u(r),new A.a0v(r),a3),A.E(a3,p,a3),A.bv(b3,a3,a3,a3,4.7/c1,a3)],c2),B.a2,B.u,B.r),A.aS(A.b([A.E(A.ag(b4,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m),A.E(A.ag(b5,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m),A.E(a3,p,a3),A.be(A.b([A.bv(b6,a3,a3,a3,n,a3),A.E(a3,a3,p),A.bv(b7,a3,a3,a3,n,a3)],c2),B.k,B.z),A.E(a3,p,a3),A.E(A.ag(b8,a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,o,a3,a3,B.P,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3),a3,m),A.E(A.ag("I had the opportunity to present this work at the European Conference of Information Retrieval (ECIR) 2025 in Italy, where I shared insights from the project with researchers and practitioners from around the world. It was an incredible experience \u2014 not just to present, but also to learn from others building innovative applications in this space. I received valuable feedback on how we could further improve the system, and came away inspired by the creative ways others are using similar technologies to solve real-world problems.",a3,!0,A.aj(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,l,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.S),a3,m),A.E(a3,p,a3),A.bv(b9,a3,a3,a3,n,a3),A.E(a3,p,a3)],c2),B.k,B.u,B.r)],c2),B.k,B.u,B.r))}c3.push(A.E(a3,a3,s))
+return A.aS(c3,B.k,B.z,B.r)},
 $S:34}
 A.a0l.prototype={
 $0(){A.du(this.a).li(null)},
